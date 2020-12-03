@@ -1,9 +1,9 @@
 # Unzipping-files
 
-# What you got to do:
+### What you got to do:
 1. Add the path to the folder containing zipped files in dir_name and run the code.
 
-# What the code does:
+### What the code does:
 1. Changes the directory from working directory to the directory with zipped files
 2. Loops through items in the directory
 3. Gets the full path of files
